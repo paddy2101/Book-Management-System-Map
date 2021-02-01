@@ -3,10 +3,15 @@
 # output
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 1
@@ -28,10 +33,15 @@ Enter Price : 399
 Library Created
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 2
@@ -47,10 +57,15 @@ Auther :  Shubham
 Price :  399
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 2
@@ -60,10 +75,15 @@ Enter Book Name : Pradhyum
 Book Not Available
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 3
@@ -85,10 +105,15 @@ Enter Price : 499
 All Book Added
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 4
@@ -96,10 +121,15 @@ Enter Your Choise : 4
 Book In Stock :  4
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 2
@@ -115,10 +145,15 @@ Auther :  Rohit
 Price :  499
 
 *******MENU*******
+
 1 -> CREATE LIBRARY
+
 2 -> GET BOOK DETAILS
+
 3 -> ADD NEW BOOK
+
 4 -> NO OF BOOKS IN STOCK
+
 5 -> EXIT
 
 Enter Your Choise : 5
