@@ -1,6 +1,11 @@
 # Book-Management-System-Map
 
-# output
+# Steps
+  1) Run book management system MAP.py file i.e python book management system MAP.py
+  2) Select Option As According to Operation In Given Menu By Pressing Option Number
+  
+  
+# Output
 
 *******MENU*******
 
